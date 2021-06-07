@@ -1,0 +1,4 @@
+chromedriver-binary==91.0.4472.19.0
+pytest==6.2.4
+pytest-html-reporter==0.2.6
+selenium==3.141.0
